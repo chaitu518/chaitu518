@@ -1,4 +1,4 @@
-# Hi, I'm Chaitu
+# Hi, I'm Naga
 
 Java Backend Developer focused on building scalable microservices, cloud-ready systems, and production-oriented backend solutions.
 
