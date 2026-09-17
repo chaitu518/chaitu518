@@ -5,7 +5,7 @@
 I turn messy business requirements into reliable, scalable APIs and distributed backends: message pipelines, caches, service boundaries, and the reliability work that keeps everything fast under real traffic.
 
 🌐 **Portfolio & engineering blog → [chaitu518.github.io](https://chaitu518.github.io)**  
-💬 Ask me about Spring Boot, Kafka, Redis, system design, or AWS
+💬 Ask me about Spring Boot, Kafka, Redis, system design, AWS, or AI
 
 ## What I work on
 
@@ -13,6 +13,7 @@ I turn messy business requirements into reliable, scalable APIs and distributed 
 - Service discovery, API gateways, authentication, and messaging with **Kafka**
 - Caching, resilience, and scalable system design (LLD / HLD)
 - Cloud-native deployment on **AWS** with **Docker** and **Kubernetes**
+- Practical AI integrations and LLM-powered product workflows
 
 ## Tech Stack
 
@@ -53,6 +54,7 @@ I turn messy business requirements into reliable, scalable APIs and distributed 
 - AWS cloud architecture and hands-on infrastructure projects
 - Microservices, API-gateway patterns, and service interactions
 - System design — scalability, resilience, and distributed systems
+- AI integration, LLM-powered workflows, and practical AI product building
 - Observability, deployment automation, and platform thinking
 
 ## Featured Projects
