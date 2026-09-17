@@ -66,17 +66,6 @@ I turn messy business requirements into reliable, scalable APIs and distributed 
 | **[Tiny URL](https://github.com/chaitu518/TinyUrl_Naga)** | URL-shortening backend with clean API design and scalable patterns. | Java · Spring Boot |
 | **[Random Chat Platform](https://github.com/chaitu518/RandomChat_backen)** | Real-time chat with frontend/backend separation and deployment-ready architecture. | Java · TypeScript · Docker |
 
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaitu518&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub stats" height="165" />
-  <img src="https://streak-stats.demolab.com?user=chaitu518&hide_border=true&theme=transparent" alt="GitHub streak" height="165" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitu518&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-</p>
-
 ## Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chaitu518.github.io)
